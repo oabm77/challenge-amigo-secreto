@@ -5,7 +5,7 @@ Reto que se desarrolla como parte de la fase inicial "principiante en programaci
 
 >En este desafío, desarrollarás una aplicación que permita a los usuarios ingresar nombres de amigos en una lista para luego realizar un sorteo aleatorio y determinar quién es el "amigo secreto".
 
-Tomado de la **[plantilla del desafío](https://trello.com/b/v0TFbqP)**
+Tomado de la **[plantilla del desafío](https://trello.com/b/v0TFbgqP/trello-challenge-amigo-secreto-esp)**
 
 ## Estado del desafío
 :construction: Proyecto en construcción :construction:
