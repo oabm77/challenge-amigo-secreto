@@ -8,7 +8,9 @@ Reto que se desarrolla como parte de la fase inicial "principiante en programaci
 Tomado de la **[plantilla del desafío](https://trello.com/b/v0TFbgqP/trello-challenge-amigo-secreto-esp)**
 
 ## Estado del desafío
-:construction: Proyecto en construcción :construction:
+:white_check_mark: **2025-01-30**: *Crear un array para almacenar los nombres.*
+
+:white_check_mark: **2025-01-30**: *Implementa una función para agregar amigos.*
 
 ## Funcionalidades
 - **Agregar nombres**: Los usuarios escribirán el nombre de un amigo en un campo de texto y lo agregarán a una lista visible al hacer clic en "Adicionar".
