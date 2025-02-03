@@ -5,6 +5,14 @@ let amigos = [];
 // Obtener el elemento de la lista
 const lista = document.getElementById("listaAmigos");
 const resultado = document.getElementById("resultado");
+const entrada = document.getElementById("amigo");
+
+// validar tecla enter al ingresar nuevo amigo
+entrada.onkeydown = function(event) {
+    if(event.key == 'Enter') {
+        agregarAmigo();
+    }
+}
 
 function agregarAmigo() {
     // Capturar el valor del campo de entrada
@@ -14,8 +22,13 @@ function agregarAmigo() {
         // mensaje de error
         alert("Por favor, inserte un nombre.");
     } else {
-        // Actualizar el array de amigos
-        amigos.push(amigo);
+        // Valida repetidos
+        if (amigos.includes(amigo)) {
+            alert(amigo  + " ya existe en la lista");
+        } else {
+            // Actualizar el array de amigos
+            amigos.push(amigo);
+        }
         // Limpiar el campo de entrada
         document.getElementById("amigo").value = "";
         // Actualiza la lista de amigos

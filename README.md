@@ -16,6 +16,11 @@ Tomado de la **[plantilla del desafío](https://trello.com/b/v0TFbgqP/trello-cha
 
 :white_check_mark: **2025-02-02**: *Implementa una función para sortear los amigos.*
 
+:cherries: **2025-02-02**: *Implementa una función para permitir uso de tecla enter para ingresar amigo.*
+
+:cherries: **2025-02-02**: *Valida repetidos en la lista de amigos.*
+
+
 ## Funcionalidades
 - **Agregar nombres**: Los usuarios escribirán el nombre de un amigo en un campo de texto y lo agregarán a una lista visible al hacer clic en "Adicionar".
 

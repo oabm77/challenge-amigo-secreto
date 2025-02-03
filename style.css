@@ -160,3 +160,14 @@ ul {
 .button-draw:hover {
     background-color: var(--color-button-hover);
 }
+
+.bottom-right {
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    color: var(--color-secondary);
+    font-weight: bold;
+    background: rgba(0, 0, 0, 0.7);
+    padding: 10px;
+    border-radius: 5px;
+}
