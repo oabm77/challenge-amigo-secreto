@@ -12,6 +12,10 @@ Tomado de la **[plantilla del desafío](https://trello.com/b/v0TFbgqP/trello-cha
 
 :white_check_mark: **2025-01-30**: *Implementa una función para agregar amigos.*
 
+:white_check_mark: **2025-02-02**: *Implementa una función para actualizar la lista de amigos.*
+
+:white_check_mark: **2025-02-02**: *Implementa una función para sortear los amigos.*
+
 ## Funcionalidades
 - **Agregar nombres**: Los usuarios escribirán el nombre de un amigo en un campo de texto y lo agregarán a una lista visible al hacer clic en "Adicionar".
 
@@ -30,5 +34,5 @@ Puedes descargarlo **[AQUI](https://github.com/oabm77/challenge-amigo-secreto/ar
 - JavaScript
 
 ## Autores
-| [<img src="https://www.aluracursos.com/assets/img/home/alura-logo.1730889068.svg" width=115 height=115><br><sub>Equipo Alura Latam</sub>](https://www.aluracursos.com) |  [<img src="https://live.staticflickr.com/65535/54296423135_023657de24_q_d.jpg" width=115><br><sub>Omar Bautista</sub>]([https://udocumentos.blogspot.com) |
+| [<img src="https://www.aluracursos.com/assets/img/home/alura-logo.1730889068.svg" width=115 height=115 style="background-color:black;"><br><sub>Equipo Alura Latam</sub>](https://www.aluracursos.com) |  [<img src="https://live.staticflickr.com/65535/54296423135_023657de24_q_d.jpg" width=115><br><sub>Omar Bautista</sub>]([https://udocumentos.blogspot.com) |
 | :---: | :---: |
